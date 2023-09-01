@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Conformal Prediction - Application Examples
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Paolo
+    family-names: Ciracì
+    email: lycos2101@gmail.com
+    affiliation: Università degli Studi di Torino
+repository-code: >-
+  https://github.com/Paul2189/Conformal-Prediction-for-R/tree/3d837642e2f4e7aec0316d60c04d485035170cee
